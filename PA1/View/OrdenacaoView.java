@@ -1,4 +1,4 @@
-package view;
+package View;
  
 /**
  * Classe responsável pela apresentação dos dados ao usuário.
