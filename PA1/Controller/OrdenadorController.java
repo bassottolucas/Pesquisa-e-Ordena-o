@@ -1,8 +1,8 @@
 package Controller;
 
-import model.Ordenacao;
-import model.Utilidades;
-import view.OrdenacaoView;
+import Model.Ordenacao;
+import Model.Utilidades;
+import View.OrdenacaoView;
 
 /**
  * Classe responsável pelo controle da aplicação: prepara os dados,
